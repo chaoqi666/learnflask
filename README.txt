@@ -1,1 +1,1 @@
-¼òµ¥flask¿ò¼ÜÑ§Ï°
+Simple flask framework learning
