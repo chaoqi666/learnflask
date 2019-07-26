@@ -1,0 +1,7 @@
+function add()
+{
+    var Number(adder1=document.form1.adder1.value);
+    var Number(adder2=document.form1.adder2.value);
+    var result=adder1+adder2;
+    document.form1.result.value=result;
+}
